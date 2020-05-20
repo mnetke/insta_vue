@@ -1,4 +1,9 @@
- insta_vue : clone the repo
- npm install vue
- yarn install
- npm run serve
+ insta_vue : 
+ 
+ 1.clone the repo
+ 
+ 2.npm install vue
+ 
+ 3.yarn install
+ 
+ 4.npm run serve
